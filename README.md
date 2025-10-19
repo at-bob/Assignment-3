@@ -2,6 +2,9 @@
 
 A sophisticated business chatbot built with Gradio and OpenAI/Gemini that serves as an intelligent concierge for Athlete's Temple fitness and martial arts club.
 
+## Hugging Face Link
+https://huggingface.co/spaces/bob-t/gym-manager-chatbot-agent/tree/main
+
 ## Features
 
 - **Intelligent Q&A**: Answers questions about the business using a comprehensive knowledge base
