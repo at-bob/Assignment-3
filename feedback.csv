@@ -1,0 +1,5 @@
+timestamp,user_message,model_answer,status,tag
+2025-10-19T19:20:38.082287,how many times a week are the taekwondo classes,,unanswered,out_of_scope_or_missing
+2025-10-19T19:36:28.054432,what days are the BJJ trainings,,unanswered,out_of_scope_or_missing
+2025-10-19T19:40:51.202069,what is the classes schedule at athlete's temple,,unanswered,out_of_scope_or_missing
+2025-10-19T19:46:23.059029,what is the classes schedule,,unanswered,out_of_scope_or_missing
